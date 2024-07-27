@@ -1,0 +1,177 @@
+
+.div1{
+    height: 1000px;
+    width: 1000px;
+    
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    align-content: center;
+  
+}
+.div2{
+    height: 850px;
+    width: 850px;
+   
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    align-content: center;
+}
+.div3{
+    height: 700px;
+    width: 700px;
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    align-content: center;
+     
+}
+.div4{
+    height: 550px;
+    width: 550px;
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    
+    align-content: center;
+   
+}
+.div5{
+    height:400px;
+    width: 400px;
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+   
+    align-content: center;
+   
+}
+.div6{
+    height: 250px;
+    width: 250px;
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    align-content: center;
+    
+}
+.div7{
+    height: 150px;
+    width: 150px;
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    align-content: center;
+    
+}
+.div8{
+    height:60px;
+    width: 60px;
+    border: 1.5px solid whitesmoke;
+    border-radius: 50%;
+    align-content: center; 
+
+}
+.mercury1{
+    height: 20px;
+    width: 25px;
+}
+.mercury{
+    float: right;
+    margin-right: -55px;
+    margin-top: -40px;
+    align-content: center;
+
+}
+.venus1{
+    height: 20px;
+    width: 20px;
+    
+}
+.venus{
+    float: right;
+    margin-right: -20px;
+    margin-top: -80px;
+    align-content: center;
+
+}
+.earth1{
+    height: 40px;
+    width: 40px;
+}
+.earth{
+    float: right;
+    margin-right: 10px;
+    margin-top: -90px;
+    align-content: center;
+}
+.mars1{
+    
+    height: 30px;
+    width: 60px;
+
+}
+.mars{
+    float: right;
+     margin-right: 50px;
+     margin-top: -110px;
+     align-content: center;
+
+}
+.jupiter1{
+
+    height: 60px;
+    width: 70px;
+    
+}
+.jupiter{
+    float: right;
+    margin-right: 90px;
+    margin-top: -110px;
+    align-content: center;
+}
+.saturn1{
+
+    height: 60px;
+    width: 60px;
+}
+.saturn{
+    float: right;
+    margin-right: 140px;
+    margin-top: -100px;
+    align-content: center;
+
+}
+.uranus1{
+    height: 60px;
+    width: 70px;
+   
+
+}
+.uranus{
+    margin-top: -90px;
+    margin-right: 180px;
+    float: right;
+    align-content: center;
+}
+
+.neptune1{
+    
+    height: 80px;
+    width: 80px;  
+   
+}
+.neptune{
+    margin-top:-70px;
+    margin-right: 260px;
+    float: right;
+    align-content: center;
+}
+.sun{
+    
+    margin-top: -62px;
+    align-content: center;
+    margin-left: -70px;
+    float: right;
+    margin-right: -42px;
+
+}
+.sun1{
+    height: 80px;
+    width: 60px;
+    
+}
